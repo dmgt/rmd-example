@@ -13,7 +13,9 @@ A reproducible journal article template in RMarkdown
 
 ### Overview
 
-This repository contains work in progress on an template for journal articles (eg for *Energy and Buildings*, *Buildings and Environment*, or other journals that use the Elsevier format) along with examples for beginners. This example is slightly modified from the template from the `elsevier_article` template from the`rticles` package [here](https://github.com/rstudio/rticles).
+This repository contains a template for journal articles (eg for *Energy and Buildings*, *Buildings and Environment*, or other journals that use the Elsevier format) along with examples for beginners. The underlying template is based on the `elsevier_article` template from the`rticles` package [here](https://github.com/rstudio/rticles).
+
+This example was developed by Dana Miller and Paul Raftery building on an initial [example](https://github.com/dmgt/rticles_demo) and documentation by Dana, and subsequently extended for [this](https://escholarship.org/uc/item/4p479663) published journal paper by Raftery et al. 
 
 ### How to use this repo
 
